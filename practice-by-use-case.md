@@ -1,10 +1,5 @@
 # **Use Case: Student Portfolio Website Project**
 
-## **Scenario Overview**
-This exercise covers a practical portfolio website project where students will practice individual work, collaboration, and common Git workflows.
-
----
-
 ## **Part 1: Starting the Project (Local Setup)**
 
 **Task 1: Initialize a New Repository**
@@ -86,5 +81,3 @@ This exercise covers a practical portfolio website project where students will p
 - Use `git add` to mark as resolved
 - Use `git commit` to complete the merge
 - Use `git push` to share the resolution
-
----
