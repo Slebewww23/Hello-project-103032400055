@@ -1,1 +1,3 @@
-# Yes it is just an empty repository
+# Hi There
+
+It's just a dummy repository
