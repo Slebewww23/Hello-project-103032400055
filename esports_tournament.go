@@ -4,6 +4,7 @@
 // Memberikan hasil status Skor,Menang dan Kalah sesuai dengan input Hasil Pertandingan
 // Memberikan tim yang menjuarai turnamen
 
+//Bukti buat WGTIK. 103032400055 IT-48-05.
 package main
 import "fmt"
 
